@@ -1,1 +1,4 @@
-# TIS-PROJECT
+# Hi, Naqibah here!
+I am Naqibah Diniyah Ahmad, a Year 1 Computer Science student specializing in Cyber Network and Security at Universiti Teknologi Malaysia (UTM). I have a strong interest in understanding how computer systems, networks, and security technologies work to protect digital information in today’s connected world. I am eager to learn, explore new technologies, and develop practical skills through coursework, projects, and collaborative learning. I am also motivated to continuously improve myself and contribute positively to team-based environments as I prepare for a future career in the field of cybersecurity and network security.
+# Social Media 🔈
+LinkedIn : https://www.linkedin.com/in/naqibah-diniyah-ahmad-4553a0330/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
